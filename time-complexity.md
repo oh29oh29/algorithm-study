@@ -1,0 +1,36 @@
+# 시간 복잡도 (Time Complexity)
+
+주어진 무제를 해겨하기 위한 연산 횟수  
+일반적으로 수행 시간은 1억 번의 연산을 1초의 시간으로 간주하여 예측한다.
+
+### 시간 복잡도 유형
+
+#### 빅-오메가: Ω(n)
+
+최선일 때(best case)의 연산 횟수를 나타낸 표기법
+
+#### 빅-세타: θ(n)
+
+보통일 때(average case)의 연산 횟수를 나타낸 표기법
+
+#### 빅-오: O(n)
+
+최악일 때(worst case)의 연산 횟수를 나타낸 표기법
+
+빅-오 시간 복잡도 그래프
+![빅-오 시간 복잡도 그래프](images/IMG_timecomplexity_01.png)
+
+### 시간 복잡도 도출 기준
+
+- 상수는 시간 복잡도 계산에서 제외한다.
+- 가장 많이 중첩된 반복문의 수행 횟수가 시간 복잡도의 기준이 된다.
+
+<hr>
+
+#### References
+
+> 도서
+> - [Do it! 알고리즘 코딩 테스트: 자바 편](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163033448&orderClick=LEA&Kc=)
+> 
+> 웹 문서
+> - [hackerearth](https://www.hackerearth.com/practice/notes/big-o-cheatsheet-series-data-structures-and-algorithms-with-thier-complexities-1/)
