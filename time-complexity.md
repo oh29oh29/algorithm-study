@@ -17,7 +17,6 @@
 
 최악일 때(worst case)의 연산 횟수를 나타낸 표기법
 
-빅-오 시간 복잡도 그래프
 ![빅-오 시간 복잡도 그래프](images/IMG_timecomplexity_01.png)
 
 ### 시간 복잡도 도출 기준
