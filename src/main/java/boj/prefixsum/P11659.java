@@ -13,11 +13,11 @@ public class P11659 {
     public int solution(int[] array, int start, int end) {
         int length = array.length;
 
-        int[] s = new int[length + 1];
+        int[] sum = new int[length + 1];
         for (int i = 1; i <= length; i++) {
-            s[i] = s[i - 1] + array[i - 1];
+            sum[i] = sum[i - 1] + array[i - 1];
         }
 
-        return s[end] - s[start - 1];
+        return sum[end] - sum[start - 1];
     }
 }
