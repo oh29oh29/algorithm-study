@@ -9,4 +9,5 @@
 #### 자료구조
 [배열](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/배열.md)  
 [리스트](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/리스트.md)  
-[구간 합](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/구간-합.md)
+[구간 합](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/구간-합.md)  
+[스택](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/스택.md)  
