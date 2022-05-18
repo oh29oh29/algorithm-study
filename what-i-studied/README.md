@@ -12,3 +12,8 @@
 [구간 합](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/구간-합.md)  
 [스택](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/스택.md)  
 [큐](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/큐.md)  
+
+#### 정렬
+[버블 정렬](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/정렬/버블-정렬.md)  
+[선택 정렬](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/정렬/선택-정렬.md)  
+[삽입 정렬](https://github.com/oh29oh29/algorithm-study/tree/master/what-i-studied/정렬/삽입-정렬.md)  
